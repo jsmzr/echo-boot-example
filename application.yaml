@@ -1,0 +1,11 @@
+boot:
+  prometheus: 
+    port: 8081
+    path: /mertrics
+  skywalking:
+    enabled: false
+  apollo:
+    enabled: false
+
+foo:
+  bar: localConfig
